@@ -13,3 +13,7 @@ Jaime de Castro
 
 Simulation Team:
 Jaime de Castro
+Alejandro Perez
+
+Computer Vision Team:
+Alejandro Perez
