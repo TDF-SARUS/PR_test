@@ -2,7 +2,6 @@ Maintaners:
 Jaime de Castro
 
 Mission Team:
-Jaime de Castro
 Oscar Ramos
 Eduardo González
 Jorge García
@@ -10,5 +9,7 @@ Jorge García
 Daniel Aldaz
 Mario Pérez
 Pablo Ferrero
+Jaime de Castro
 
 Simulation Team:
+Jaime de Castro
